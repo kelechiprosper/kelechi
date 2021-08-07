@@ -82,8 +82,10 @@ margin-left: 100px;
  }
 .what-people-say-div .third-img {
   position: absolute;
-  right: 500px;
+  right: 550px;
   top: 200px;
+
+
  }
  .what-people-say-div .four-img {
   position: absolute;
@@ -98,16 +100,21 @@ margin-left: 100px;
  }
  .what-people-say-div .six-img {
   position: absolute;
-  right: 100px;
-  top: 100px;
+  left: 650px;
+  bottom: 300px;
  }
+
+ 
 
  .what-people-say-div .seven {
   text-align: center;
   left: 800px;
   top: 100px;
  }
- 
+ .Explore.ten-img{
+   position: absolute;
+   bottom: 5px;
+ }
 
  
 
