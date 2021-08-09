@@ -120,5 +120,17 @@ margin-left: 100px;
   position: relative;
   top: 250px;
 }
- 
+.Contact{
+  top: 400px;
+  position: relative;
+  top: 400;
+
+}
+ .infoname{
+   margin-left: 1200px;
+   position: absolute;
+   top: 50px;
+   color: purple;
+   text-decoration: underline;
+ }
 
