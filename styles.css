@@ -57,12 +57,13 @@ margin-left: 100px;
   background: rgb(250, 211, 217);
 }
 .five{
-  border: 1px solid  skyblue;
+
+ border: 1px solid  skyblue;
   padding-top: 10px;
   padding-right: 3px;
   padding-bottom: 10px;
   padding-left: 25px;
-  background: rgb(218, 218, 238);
+  background: rgb(218,218, 238);
 }
 .what-people-say-div {
   position: relative;
@@ -133,4 +134,17 @@ margin-left: 100px;
    color: purple;
    text-decoration: underline;
  }
-
+.quote{
+  margin-left: 100px;
+  border-radius: 20px;
+  
+ border: 1px solid  skyblue;
+ padding-top: 10px;
+ padding-right: 20px;
+ padding-bottom: 10px;
+ padding-left: 20px;
+  background: purple;
+}
+.quote{
+  position: absolute;
+}
